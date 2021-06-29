@@ -4,6 +4,7 @@
 特徴量エンジニアリング  
 https://github.com/yukisato128/portfolio_2021/blob/main/New%20York%20City%20Taxi%20Fare%20Prediction.ipynb
 
+
 ## ◇Pythonを使用したプログラム
 -9×9マスの数独を解くプログラム
 私が現在の勤め先の研修を修了後、初めて作ったプログラムです。Numpyを使用せず、単純に多次元配列を作成し、モンテカルロ法的に解いているので、処理時間が要したり、解けない数独課題もあります。  
@@ -12,6 +13,7 @@ https://github.com/yukisato128/portfolio_2021/blob/main/Sudoku_with_Python.ipynb
 -面が3×3マスのルービックキューブを解くプログラム
 株式会社メガハウスが公式に公開している、LBL6面法という解放を使い、ルービックキューブを解くプログラムです。こちらは、自分でアルゴリズムから構築するのではなく、回転させるギミックと、LBL6面法を如何に実装できるかということを目的としています。  
 https://github.com/yukisato128/portfolio_2021/blob/main/Rubic_Cube_with_Python.ipynb
+
 
 
 ## ◇資格の詳細
