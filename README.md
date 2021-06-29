@@ -20,10 +20,9 @@ https://github.com/yukisato128/portfolio_2021/blob/main/Sudoku_with_Python.ipynb
 株式会社メガハウスが公式に公開している、LBL6面法という解放を使い、ルービックキューブを解くプログラムです。こちらは、自分でアルゴリズムから構築するのではなく、回転させるギミックと、LBL6面法を如何に実装できるかということを目的としています。  
 https://github.com/yukisato128/portfolio_2021/blob/main/Rubic_Cube_with_Python.ipynb
 
-## ◇Kaggle
-タイタニックの乗客の属性や客室ランクなどの情報をもとに、乗客の生死を予測するモデルを作り、その精度を競うものです。EDAでデータ構造や種類を理解し、データクレンジングを行いました。最後のモデリングでは、LightGBMを利用しました。初めてのKaggle参加だったので、書籍などを参考にしましたが、分析の一連のプロセスを理解することができました。
-
--New York City Taxi Fare Prediction
-特徴量エンジニアリング
+-New York City Taxi Fare Prediction  
+乗降場所、日時などのデータから、ニューヨークのタクシー料金を予測する課題です。モデルはXgboosを使用しました。特徴量エンジニアリングや、EDAでデータ構造や種類を理解し、データクレンジングを行いました。
+特徴量エンジニアリング  
+https://github.com/yukisato128/portfolio_2021/blob/main/New%20York%20City%20Taxi%20Fare%20Prediction.ipynb
 
 
