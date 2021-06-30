@@ -1,7 +1,6 @@
 # ◇Kaggleの分析コンペティションで提出したプログラム
 ### ○New York City Taxi Fare Prediction  
-乗降場所、日時などのデータから、ニューヨークのタクシー料金を予測する課題です。モデルはXgboosを使用しました。特徴量エンジニアリングや、EDAでデータ構造や種類を理解し、データクレンジングを行いました。
-特徴量エンジニアリング  
+乗降場所、日時などのデータから、ニューヨークのタクシー料金を予測する課題です。モデルはXgboosを使用しました。特徴量エンジニアリングや、EDAでデータ構造や種類を理解し、データクレンジングを行いました。  
 コード：https://github.com/yukisato128/portfolio_2021/blob/main/New%20York%20City%20Taxi%20Fare%20Prediction.ipynb
 　　
 <br>　　
